@@ -4,9 +4,13 @@ Hello, I'm Narendhiran, but you can call me Naren. Currently pursuing an M.S. in
 
 <div align="center">
   <a href="https://naren200.github.io/news/">Latest News!</a>  |   <a href="https://naren200.github.io/experience/">Experience</a>
+  <br><br>
+
+[![My GitHub Stats](https://github-readme-stats-narendhiran-saravananes-projects.vercel.app/api/?username=naren200&count_private=true&theme=tokyonight&showicons=true)]()
+
 </div>
-
-
+ 
+ 
 ##### Wanna discuss something? Feel free to ping me!
 
 [<img align="left" alt="naren200.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -14,7 +18,7 @@ Hello, I'm Narendhiran, but you can call me Naren. Currently pursuing an M.S. in
 [<img align="left" alt="narendhiran2000 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="narendhiran.saravanane.9 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[website]: https://naren200.github.io
+[website]: https://naren200.github.io/about/
 [twitter]: https://twitter.com/narendhiran2000
 [linkedin]: https://www.linkedin.com/in/narendhiran2000
 [facebook]: https://www.facebook.com/narendhiran.saravanane.9
