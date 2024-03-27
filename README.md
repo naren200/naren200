@@ -18,7 +18,7 @@ Hello, I'm Narendhiran, but you can call me Naren. Currently pursuing an M.S. in
 [<img align="left" alt="narendhiran2000 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="narendhiran.saravanane.9 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[website]: https://naren200.github.io/about/
+[website]: https://naren200.github.io/
 [twitter]: https://twitter.com/narendhiran2000
 [linkedin]: https://www.linkedin.com/in/narendhiran2000
 [facebook]: https://www.facebook.com/narendhiran.saravanane.9
