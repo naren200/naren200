@@ -6,7 +6,7 @@ Hello, I'm Narendhiran, but you can call me Naren. Currently pursuing an M.S. in
   <a href="https://naren200.github.io/news/">Latest News!</a>  |   <a href="https://naren200.github.io/experience/">Experience</a>
   <br><br>
 
-[![My GitHub Stats](https://github-readme-stats-narendhiran-saravananes-projects.vercel.app/api/?username=naren200&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats-narendhiran-saravananes-projects.vercel.app/api/?username=naren200&count_private=true&theme=tokyonight&showicons=true)](https://github-readme-stats-narendhiran-saravananes-projects.vercel.app/api/?username=naren200&count_private=true&theme=tokyonight&showicons=true)
 
 </div>
  
