@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm Narendhiran, but you can call me Naren. Currently pursuing an M.S. in Robotics and Autonomous Systems at Arizona State University, I am passionate about advancing robotic capabilities in unstructured environments, with expertise in perception, machine learning, and aerial robotics. A graduate of IIT Patna in Mechanical Engineering, my academic journey has been marked by achievements, including a Motion Prediction model for towed floating objects and leadership in the 2019-20 e-Yantra International Robotics Competition. 
+Hello, I'm Narendhiran, my friends call me Naren. Currently pursuing an M.S. in Robotics and Autonomous Systems at Arizona State University, I am passionate about advancing robotic capabilities in unstructured environments, with expertise in perception, machine learning, and aerial robotics. A graduate of IIT Patna in Mechanical Engineering, my academic journey has been marked by achievements, including a Motion Prediction model for towed floating objects and leadership in the 2019-20 e-Yantra International Robotics Competition. 
 
 <div align="center">
   <a href="https://naren200.github.io/news/">Latest News!</a>  |   <a href="https://naren200.github.io/experience/">Experience</a>
